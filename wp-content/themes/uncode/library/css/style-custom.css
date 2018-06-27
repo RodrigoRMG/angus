@@ -65,8 +65,8 @@
 /*----------------------------------------------------------
 #color-105338
 ----------------------------------------------------------*/
-.style-color-105338-bg { background-color: #940c42; }
-.btn-color-105338 { color: #ffffff !important; background-color: #940c42 !important; border-color: #143951 !important; }
+.style-color-105338-bg { background-color: #551328; }
+.btn-color-105338 { color: #ffffff !important; background-color: #551328 !important; border-color: #143951 !important; }
 .btn-color-105338:not(.btn-hover-nobg):hover, .btn-color-105338:not(.btn-hover-nobg):focus,btn-color-105338:active { background-color: transparent !important; border-color: #143951 !important;}
 .btn-color-105338.btn-flat:not(.btn-hover-nobg):hover, .btn-color-105338.btn-flat:not(.btn-hover-nobg):focus,btn-color-105338.btn-flat:active { background-color: #072c44 !important; border-color: #072c44 !important;}
 .btn-color-105338:not(.btn-flat):not(.btn-hover-nobg):not(.btn-text-skin):hover, .btn-color-105338:not(.btn-hover-nobg):not(.btn-text-skin):focus,btn-color-105338:active { color: #143951 !important; }
@@ -530,12 +530,12 @@
 /*----------------------------------------------------------
 #'Playfair Display'
 ----------------------------------------------------------*/
-.font-202503 { font-family: 'Playfair Display' !important; }
+.font-202503 { font-family: 'Montserrat Alternates', sans-serif!important;}
 
 /*----------------------------------------------------------
 #Montserrat
 ----------------------------------------------------------*/
-.font-460669 { font-family: Montserrat !important; }
+.font-460669 { font-family: 'Montserrat Alternates', sans-serif!important;}
 
 /*----------------------------------------------------------
 #Font-size: 12px
