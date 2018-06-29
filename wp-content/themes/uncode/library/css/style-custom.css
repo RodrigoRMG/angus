@@ -641,7 +641,7 @@
 ----------------------------------------------------------*/
 p,li,dt,dd,dl,address,label,small,pre,code { font-size: 15px; }
 h1:not([class*="fontsize-"]),.h1:not([class*="fontsize-"]) { font-size: 35px; }
-h2:not([class*="fontsize-"]),.h2:not([class*="fontsize-"]) { font-size: 29px; }
+h2:not([class*="fontsize-"]),.h2:not([class*="fontsize-"]) { font-size: 20px; }
 h3:not([class*="fontsize-"]),.h3:not([class*="fontsize-"]) { font-size: 24px; }
 h4:not([class*="fontsize-"]),.h4:not([class*="fontsize-"]) { font-size: 20px; }
 h5:not([class*="fontsize-"]),.h5:not([class*="fontsize-"]) { font-size: 17px; }
